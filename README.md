@@ -1,4 +1,4 @@
-# React-based Chatroom Component for Rasa Stack
+# React-based Chatroom Component for Rasa Stackk
 
 [![CircleCI](https://circleci.com/gh/scalableminds/chatroom.svg?style=svg)](https://circleci.com/gh/scalableminds/chatroom)
 
